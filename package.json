@@ -1,0 +1,12 @@
+{
+  "name": "@workspace/discord-bot",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-sqlite src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.4"
+  }
+}
